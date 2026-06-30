@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vishwaraja R
 
-💻 Full Stack Developer | Java | Spring Boot | MERN Stack
+💻 Full Stack Developer | MERN Stack | Java | Spring Boot
 
 I'm a passionate Full Stack Developer who enjoys building scalable web applications and learning new technologies. I have experience in Java, Spring Boot, React, Node.js, Express.js, MongoDB, MySQL, and REST APIs.
 
